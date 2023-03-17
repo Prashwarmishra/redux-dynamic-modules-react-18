@@ -1,6 +1,6 @@
 {
-    "name": "redux-dynamic-modules-react",
-    "version": "5.2.3",
+    "name": "redux-dynamic-modules-react-18",
+    "version": "5.2.4",
     "description": "Modularize the redux app by dynamically loading reducers, state and sagas",
     "repository": {
         "type": "github",
@@ -21,7 +21,7 @@
         "dynamic",
         "load"
     ],
-    "author": "Navneet Gupta (Microsoft), Alex Bettadapur (Facebook)",
+    "author": "Prashwar Mishra",
     "license": "MIT",
     "devDependencies": {
         "@types/jest": "^23.3.1",
